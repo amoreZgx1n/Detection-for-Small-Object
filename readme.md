@@ -1,9 +1,7 @@
 # Relation Network
-## Sort-of-CLEVR Dataset
+## For YOLOv8
 
-Relation Network is a plug-n-play module to incorporate relational reasoning abilities to deep learning models.
-
-This repository implements Relation Network module in PyTorch for the Sort-of-CLEVR dataset
+The relational network repository is a collection of tools and frameworks designed to facilitate the integration and management of relational data within deep learning models. When used in conjunction with YOLOv8, a state-of-the-art object detection model, relational networks can enhance the model's ability to interpret complex relationships between objects in an image. This integration is particularly useful in scenarios where understanding the context and interactions among multiple objects significantly improves detection performance. By leveraging relational networks, YOLOv8 can more effectively identify and classify small or densely packed objects, making it a powerful tool for applications requiring high accuracy in dynamic environments.
 
 ## Requirements
 * PyTorch
